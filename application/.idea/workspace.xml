@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb50fbe7-29e2-49ee-9b94-c1e89f2cbe49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../dependency/src/main/java/org/nlab/article/release/Foo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dependency/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../dependency/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="bb50fbe7-29e2-49ee-9b94-c1e89f2cbe49" name="Default" comment="" />
     <ignored path="application.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -498,12 +493,12 @@
       <created>1435260124853</created>
       <option name="number" value="Default" />
       <updated>1435260124853</updated>
-      <workItem from="1435260129012" duration="11359000" />
+      <workItem from="1435260129012" duration="12057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11359000" />
+    <option name="totallyTimeSpent" value="12057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />

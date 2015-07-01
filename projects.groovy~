@@ -1,0 +1,12 @@
+    [
+      {
+        "id": "application",
+        "name": "Application",
+        "scm": "https://github.com/nithril/article-continuous-release.git"
+      },
+      {
+        "id": "dependency",
+        "name": "Dependency",
+        "scm": "https://github.com/nithril/article-continuous-release.git"
+      }
+    ]
